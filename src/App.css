@@ -1,0 +1,239 @@
+.hinput{
+  width: 150px;
+  min-height: 25px;
+  border-radius: 20px;
+  border: none;
+}
+.hinput:active{
+  border: none;
+}
+.inpsearch{
+  display: flex;
+  align-items: center;
+   justify-content: center;
+   gap: 7px;
+}
+.logoborder{
+  text-align: center;
+  width: 150px;
+  border: 2px solid black;
+height: 35px;
+}
+.icons{
+  display: flex;
+  gap: 10px;
+  font-size: 20px;
+}
+.headdiv{
+  padding: 40px 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.logoborder p{
+  margin-top: -5px;
+  font-size: 20px;
+  letter-spacing: 3.8px;
+}
+.logoborder p:hover{
+  cursor: pointer;
+}
+.icons:hover{
+  cursor: pointer;
+}
+.navbar1{
+  margin-top: 30px;
+display: flex;
+justify-content:center ;
+align-items: center;
+gap: 20px;
+}
+.navbar1 p{
+  margin-top: 15px;
+}
+.navbar1 p:hover{
+  cursor: pointer;
+}
+Link{
+  list-style: none;
+  color: black;
+}
+.shoes{
+  margin-top: 30px;
+height: 100vh;
+  width: 100%;
+  background-color:#A6F3EB ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pho{
+  width: 50%;
+  height: 150%;
+}
+.text{
+  width: 50%;
+  height: 50%;
+  padding: 0 150px;
+}
+img{
+  width: 100%;
+  height: 100%;
+}
+.text h1{
+  font-size: 55px;
+}
+.text p{
+  font-size: 20px;
+}
+.text button{
+  padding: 9px 20px;
+  background-color: #7971EA;
+  color: white;
+  border: none;
+  border-radius: 3px;
+}
+ 
+.text button:hover{
+ position: relative;
+ bottom: 3px;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+.container{
+  display: flex;
+    padding: 80px 0;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  .que{
+    width: 350px;
+    display: flex;
+    gap: 15px;
+  }
+  .icon4{
+    font-size: 100px;
+  color: rgb(121,113,234);
+  padding-bottom:50px;
+  }
+  .que h3{
+    font-size: 20px;
+    padding-bottom: 20px;
+  }
+  .section5{
+    width: 100%;
+    padding: 100px 0;
+    display: flex;
+    gap: 50px;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid rgb(188, 188, 188) ;
+  border-bottom:1px solid rgb(188, 188, 188) ;
+  }
+  .imgg{
+    width: 100px;
+  height: 400px;
+  overflow: hidden;
+  
+  }
+  
+  .imgg:hover .pht{
+    transform: scale(1.1);
+    transition: all 0.5;
+  }
+  
+  .pht{
+    transform: scale(1);
+    z-index: -111;
+    position: relative;
+  }
+  .textt{
+    margin-top: -80px;
+    margin-left: 10px;
+    z-index: 222;
+  }
+  .textt h3{
+    margin-top: 10px;
+    font-size: 25px;
+    color: white;
+  }
+  span{
+    color: white;
+  }
+  .mehsul{
+    text-align: center;
+    width: 325px;
+    height: 450px;
+  }
+  .photoo{
+    width: 100%;
+    height: 60%;
+  }
+  .mehsul h3{
+    margin-top: 30px;
+color: rgb(152,146,239);
+font-size: 20px;
+  }
+.mehsul p{
+font-size: 15px;
+}
+.mehsul span{
+  color: rgb(152,146,239);
+
+}
+
+.cruddiv{
+display: flex;
+
+}
+.sale{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 400px;
+  background-color: black;
+
+}
+.sale div{
+  height: 50%;
+  width: 100%;
+}
+.salediv{
+  padding-left: 50px;
+  text-align: center;
+}
+.salediv h3{
+padding-right: 80px;
+}
+img{
+  width: 100%;
+  height: 100%;
+}
+ .ph2{
+  width: 50%;
+  height: 100%;
+  padding: 100px;
+ }
+ .ph{
+  width: 50%;
+  height: 100%;
+ }
+ .ph2 h3{
+  margin-bottom: 30px;
+ }
+ .salediv{
+  text-align: center;
+ }
+ .salediv h3{
+  margin-top: 50px;
+ }
+.shop{
+  padding: 9px 20px;
+  background-color: #7971EA;
+  color: white;
+  border: none;
+  border-radius: 3px;
+}
